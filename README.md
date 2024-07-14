@@ -18,8 +18,6 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7LYZ8_e0opzYzBseseWiPpp17FpEpUadXw&s
-)" height="40" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
