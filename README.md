@@ -105,11 +105,3 @@
 
 <br/>
 
-🙋‍♂️ Let's Connect
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="tsouri.chahine@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/Chah1ne"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="www.linkedin.com/in/tsouri-chahine"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
-</p>
