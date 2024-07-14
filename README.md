@@ -102,19 +102,14 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Chah1ne"><img alt="Chah1ne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chah1ne&custom_title=Chahine%20Tsouri's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
 <br/>
+
 🙋‍♂️ Let's Connect
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="tsouri.chahine@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/Chah1ne"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href
-="https://linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/tsouri-chahine"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 </p>
