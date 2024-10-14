@@ -6,6 +6,9 @@
 <hr/>
 <h4 align="center">I am a passionate developer who loves to innovate, experiment, and take on new challenges. My skills span across both frontend and backend development, with a keen interest in mobile applications using Flutter.</h4>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chah1ne&label=Profile%20views&color=0e75b6&style=plastic" alt="Chah1ne" /> </p>
+<br>
+
 
 - 🔭 I’m currently working on **A Personal Project**
 
@@ -19,15 +22,16 @@
 
 - ⚡ Fun fact **my dream as a kid was to become F1 Driver.**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tsouri-chahine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChahineTSOURI" height="30" width="40" /></a>
 <a href="https://chah1ne.github.io/myportfolio/#contact" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/portfolio.svg" alt="ChahineTSOURI" height="30" width="40" /></a>
 </p>
 
-<br><br><br>
+<br><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chah1ne&label=Profile%20views&color=0e75b6&style=plastic" alt="Chah1ne" /> </p>
 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chah1ne&theme=algolia" alt="Chah1ne"  /></p>
 🛠️ My Skills
