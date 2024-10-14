@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 🗪 I’m looking to collaborate on **any Web Development, Flutter or Embedded Systems projects**
+- 🗪 I’m looking to collaborate on **any Web Development, Flutter**
 
 - 💬 Ask me about **anything basically, if I know something about a certain topic I'll gladely share.**
 
