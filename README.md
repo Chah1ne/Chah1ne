@@ -5,6 +5,7 @@
 </p>
 <hr/>
 <h4 align="center">I am a passionate developer who loves to innovate, experiment, and take on new challenges. My skills span across both frontend and backend development, with a keen interest in mobile applications using Flutter.</h4>
+<br>
 
 - 🔭 I’m currently working on **A Personal Project**
 
