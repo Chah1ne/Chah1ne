@@ -6,9 +6,6 @@
 <hr/>
 <h4 align="center">I am a passionate developer who loves to innovate, experiment, and take on new challenges. My skills span across both frontend and backend development, with a keen interest in mobile applications using Flutter.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chah1ne&label=Profile%20views&color=0e75b6&style=plastic" alt="Chah1ne" /> </p>
-<br>
-
 
 - 🔭 I’m currently working on **A Personal Project**
 
@@ -22,6 +19,8 @@
 
 - ⚡ Fun fact **my dream as a kid was to become F1 Driver.**
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chah1ne&label=Profile%20views&color=0e75b6&style=plastic" alt="Chah1ne" /> </p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
