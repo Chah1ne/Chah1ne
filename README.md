@@ -21,7 +21,6 @@
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chah1ne&label=Profile%20views&color=0e75b6&style=plastic" alt="Chah1ne" /> </p>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
