@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tsouri.chahine@gmail.com**
 
-- ⚡ Fun fact **my dream as a kid was to become either a footballer or a F1 Driver.**
+- ⚡ Fun fact **my dream as a kid was to become F1 Driver.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
